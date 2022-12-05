@@ -2,7 +2,7 @@ package lab1;
 
 import java.util.Scanner;
 
-public class task8 {
+public class Task8 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 

@@ -2,7 +2,7 @@ package lab1;
 
 import java.util.Scanner;
 
-public class task3 {
+public class Task3 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
@@ -16,6 +16,7 @@ public class task3 {
         int date = in.nextInt();
 
         System.out.printf(" %s %d %s \n", day, date, month);
+
         in.close();
     }
 }

@@ -3,7 +3,7 @@ package lab1;
 import java.time.YearMonth;
 import java.util.Scanner;
 
-public class task7 {
+public class Task7 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int year = YearMonth.now().getYear();
